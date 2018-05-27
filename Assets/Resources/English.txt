@@ -1,0 +1,3 @@
+﻿start:start game
+continue:continue
+exit:exit
